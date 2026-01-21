@@ -32,7 +32,7 @@ If you're looking for a great way to make your development projects more robust,
 * Share your implementation with us on our [submission form](https://mlh.link/ghwform)! 
 
 ## Challenge 4 
-### Templates + Merge Tags
+### Templates + Merge Tags 
 #### Objectives: 
 * Combine the power of predefined email templates with dynamic merge tags like {{FirstName}} or {{OrderNumber}}. 
 * With [Windsurf AI](https://mlh.link/ghwaiml225-tinymce-windsurfai) or [Cursor AI](https://mlh.link/ghwaiml225-tinymce-cursorai), create reusable HTML structures and dynamic placeholders to personalize emails and add them to a TinyMCE Editor!
@@ -43,4 +43,7 @@ If you're looking for a great way to make your development projects more robust,
 #### Objectives: 
 * Ensure your emails are visually consistent across all email clients by adding inline CSS.
 * Use [Windsurf AI](https://mlh.link/ghwaiml225-tinymce-windsurfai) or [Cursor AI](https://mlh.link/ghwaiml225-tinymce-cursorai) to help you craft clean, email-safe CSS rules.
-* Share your implementation with us on our [Devpost Page](https://mlh.link/ghwdevpost)!  
+* Share your implementation with us on our [Devpost Page](https://mlh.link/ghwdevpost)!
+
+## Challenge 6 
+### TEST TEST TEST
